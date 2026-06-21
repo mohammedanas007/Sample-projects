@@ -1,1 +1,8 @@
-
+step 1>> we download Ollama 
+step 2>> Pull any Ollama model like: ollama pull llama3.1:8b or any Ollama mini model
+Step 3>> install all the dependecies for flask api
+Step 4>> python -m venv venv
+venv\Scripts\activate  setup python env 
+Step 5>> try to run app.py 
+Step 6>> python -m http.server 8000 host to localhost 
+Step 7>> index.html and app.py should be in same folder 
